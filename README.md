@@ -1,21 +1,25 @@
 # SCT_DS_1
-# 📊 Task 1 – Exploratory Data Analysis  
-**Data Science Internship | SkillCraft Technology**
+# Task 1 – Exploratory Data Analysis  
+### Data Science Internship at Skillcraft Technologies
 
-## 📌 Overview  
-This repository contains my submission for **Task 1** of the **Data Science Internship at SkillCraft Technology**.  
-The task focuses on performing **Exploratory Data Analysis (EDA)** on a population dataset and visualizing the distribution of categorical and continuous variables using Python.
+## 📌 Project Overview
 
----
+Welcome to my submission for **Task 1 of the Data Science Internship at Prodigy Infotech**.  
+In this task, I performed **Exploratory Data Analysis (EDA)** on the provided dataset, with a focus on visualizing the distribution of categorical and continuous variables using appropriate charts.
 
-## 📂 Dataset  
-- **Name:** world_population_dataset  
-- **Description:**  
-  The dataset includes population records spanning from **2001 to 2022**, enabling analysis of population trends over time.
+The main objective was to understand data patterns and present insights through visualizations such as bar charts, stacked charts, and histograms.
 
 ---
 
-## 🛠 Tools & Libraries Used  
+## 📊 Dataset
+
+The dataset used for this project is **world_population_dataset**.  
+It contains population records spanning from **2001 to 2022**.
+
+---
+
+## 🛠 Tools & Libraries Used
+
 - Jupyter Notebook  
 - Pandas  
 - NumPy  
@@ -24,14 +28,30 @@ The task focuses on performing **Exploratory Data Analysis (EDA)** on a populati
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)  
-The following steps were performed during the EDA process:
+## 🔍 Exploratory Data Analysis (EDA)
 
-### Data Cleaning  
+During the EDA process, the following steps were carried out:
+
+### ✔ Data Cleaning
 - Checked for missing values  
-- Removed duplicate records  
-- Identified and handled outliers  
+- Identified duplicate records  
+- Detected outliers  
+- Applied necessary cleaning techniques  
 
-### Data Visualization  
-- Created **bar charts** to visualize categorical variables  
-- Used **stacked charts** t
+### ✔ Visualization
+- Created bar charts and stacked charts  
+- Visualized distributions of categorical and continuous variables  
+- Used Matplotlib and Seaborn to generate meaningful plots  
+
+These visualizations help in understanding trends and distributions within the dataset.
+
+---
+
+## ✅ Conclusion
+
+This exploratory analysis provided valuable insights into the dataset and highlighted key distribution patterns.  
+The results form a solid foundation for further data exploration and modeling tasks in the data science workflow.
+
+Thank you for reviewing my submission!
+
+
