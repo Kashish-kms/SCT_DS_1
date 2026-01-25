@@ -1,10 +1,10 @@
 # SCT_DS_1
 # Task 1 – Exploratory Data Analysis  
-### Data Science Internship at Skillcraft Technologies
+### Data Science Internship at Skillcraft Technology
 
 ## 📌 Project Overview
 
-Welcome to my submission for **Task 1 of the Data Science Internship at Prodigy Infotech**.  
+Welcome to my submission for **Task 1 of the Data Science Internship at Skillcraft Technology**.  
 In this task, I performed **Exploratory Data Analysis (EDA)** on the provided dataset, with a focus on visualizing the distribution of categorical and continuous variables using appropriate charts.
 
 The main objective was to understand data patterns and present insights through visualizations such as bar charts, stacked charts, and histograms.
